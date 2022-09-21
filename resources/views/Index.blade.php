@@ -176,6 +176,9 @@
             <div class="owl-carousel owl-theme slidercard2 pb-2">
                 
                 <div class="item ">
+                    <img src="/pictures/index-logo/CAVIAR.jpg" alt="">
+                </div>
+                <div class="item ">
                     <img src="/pictures/index-logo/EVELOM.jpg" alt="">
                 </div>
                 <div class="item ">
