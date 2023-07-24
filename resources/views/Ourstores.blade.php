@@ -106,9 +106,7 @@
 
   <img src="pictures/our-store-01.png" width="100%" alt="" />
 
-  <!-- <div class="container mt-5 mb-5">
-    <p class="retailmainhead">Maison Des Parfums</p>
-  </div> -->
+  <!-- <div class="container mt-5 mb-5"><p class="retailmainhead">Maison Des Parfums</p></div> -->
   <div class="container-fluid">
     <div class="row m-5">
       <div class="left">
@@ -134,24 +132,16 @@
         </p>
         <div class="row maisoncontent ">
           <div class="main">
-            <div class="child">
-              <p class="maisontext"> To know more please connect to our website :
-              </p>
-            </div>
-            <div class="child">
-              <a href="https://mdpindia.com/" target="_blank"> <button class="maisonbtn">Maison des parfums</button>
-              </a>
-            </div>
+            <div class="child"><p class="maisontext"> To know more please connect to our website :</p>div>
+            <div class="child"><a href="https://mdpindia.com/" target="_blank"> <button class="maisonbtn">Maison des parfums</button> </a></div>
           </div>
-
         </div>
-
       </div>
     </div>
   </div>
-  <!-- <div class="container mt-5 mb-5">
-    <p class="retailmainhead">Beaute Luxe</p>
-  </div> -->
+      
+  <!-- <div class="container mt-5 mb-5"> <p class="retailmainhead">Beaute Luxe</p> </div> -->
+      
   <div class="container-fluid pt-2">
     <div class="row m-5">
       <div class="left">
@@ -168,73 +158,55 @@
           Beaute Luxe is to bring all luxury brands in the categories of Beauty, Fragrance, Fashion and Lifestyle
           Accessories under one umbrella. With the aim to make luxury accessible to the Indian customer, we
           are available in multiple stores all over the subcontinent.
-        </p>
-        <!-- <div class="row maisoncontent ">
-          <div class="main">
+        </p> 
+            <div class="row maisoncontent ">
+            <div class="main">
             <div class="child">
-              <p class="maisontext"> To know more please connect to our website :
-              </p>
+            <p class="maisontext"> To know more please connect to our website :
+            </p>
             </div>
             <div class="child">
-                <button type="button" class="maisonbtn" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                 Beaute Luxe
-                </button>
-                <div class="modal fade " id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                  <div class="modal-dialog">
-                    <div class="modal-content">
-
-                      <div class="modal-body">
-                        <strong> Website under construction</strong>
-                      </div>
-
-                    </div>
-                  </div>
-                </div>
-              </a>
+            <a href="https://beauteluxe.in/" target="_blank"> <button class="maisonbtn">Beaute Luxe</button>
+            </a>
             </div>
-          </div>
-
-        </div> -->
-
+            </div>
+            </div>      
       </div>
     </div>
   </div>
-  <!-- <div class="container mt-5 mb-5">
-    <p class="retailmainhead">Beauty Scentiments</p>
-  </div> -->
-  <div class="container-fluid pt-3">
+ 
+<!-- <div class="container mt-5 mb-5"> <p class="retailmainhead">Beauty Scentiments</p></div> -->
+<div class="container-fluid pt-3">
     <div class="row m-5">
-      <div class="left">
-        <img src="pictures/Beauty-Scentiments.svg" class="retailimg-3" alt="" />
-      </div>
-      <div class="right">
-        <p class="retailtext" style="text-align: justify;">
-          <strong> Bringing You Everything Beautiful </strong>
-          <br><br>
-          Beauty Scentiments are retail stores that cater to aspirational
-          customers with BCPL’s lifestyle and prestige brands.
-          <br><br>
-          With a vision to reach out to the burgeoning
-          middle class in multi-cities, it has re-defined the conventional shopping experience with a very
-          comfortable customer-friendly approach
-        </p>
-        <div class="row maisoncontent ">
-          <div class="main">
-            <div class="child">
-              <p class="maisontext"> To know more please connect to our website :
-              </p>
-            </div>
-            <div class="child">
-              <a href="https://beautyscentiments.com/" target="_blank"> <button class="maisonbtn">Beauty Scentiments</button>
-              </a>
-            </div>
-          </div>
-
+        <div class="left">
+            <img src="pictures/Beauty-Scentiments.svg" class="retailimg-3" alt="" />
         </div>
-
-      </div>
+        <div class="right">
+            <p class="retailtext" style="text-align: justify;">
+            <strong> Bringing You Everything Beautiful </strong>
+            <br><br>
+            Beauty Scentiments are retail stores that cater to aspirational
+            customers with BCPL’s lifestyle and prestige brands.
+            <br><br>
+            With a vision to reach out to the burgeoning
+            middle class in multi-cities, it has re-defined the conventional shopping experience with a very
+            comfortable customer-friendly approach
+            </p>
+            <div class="row maisoncontent ">
+            <div class="main">
+            <div class="child">
+            <p class="maisontext"> To know more please connect to our website :
+            </p>
+            </div>
+            <div class="child">
+            <a href="https://beautyscentiments.com/" target="_blank"> <button class="maisonbtn">Beauty Scentiments</button>
+            </a>
+            </div>
+            </div>
+            </div>
+        </div>
     </div>
-  </div>
+</div>
 
   </div>
 
