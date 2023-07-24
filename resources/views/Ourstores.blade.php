@@ -160,16 +160,10 @@
           are available in multiple stores all over the subcontinent.
         </p> 
             <div class="row maisoncontent ">
-            <div class="main">
-            <div class="child">
-            <p class="maisontext"> To know more please connect to our website :
-            </p>
-            </div>
-            <div class="child">
-            <a href="https://beauteluxe.in/" target="_blank"> <button class="maisonbtn">Beaute Luxe</button>
-            </a>
-            </div>
-            </div>
+                <div class="main">
+                    <div class="child"><p class="maisontext"> To know more please connect to our website :</p></div>
+                    <div class="child"><a href="https://beauteluxe.in/" target="_blank"> <button class="maisonbtn">Beaute Luxe</button></a></div>
+                </div>
             </div>      
       </div>
     </div>
