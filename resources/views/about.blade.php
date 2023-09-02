@@ -123,7 +123,7 @@
 
   <div class="container-fluid mt-5 aboutustabs">
     <div class="container pt-4 pb-3">
-      <p class="bcplbrands">BCPL Brands</p>
+      <p class="bcplbrands">BCPL Brands-1</p>
     </div>
 
 
